@@ -52,6 +52,10 @@ Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite an
 
 3. MySQL:  
 MySQL is a freely available open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL). SQL is the most popular language for adding, accessing and managing content in a database. It is most noted for its quick processing, proven reliability, ease and flexibility of use.
+  
+4. Express-handlebars: Handlebars is one of the most used templating engines for web applications “competing” with other well-known ones like Mustache js, Pug, EJS and others. It’s especially used on the server side along with the express js framework.
+  
+5. Others: dotenv package(https://www.npmjs.com/package/dotenv), bcrypt package (https://www.npmjs.com/package/bcrypt), express-session (https://www.npmjs.com/package/express-session) & connect-session-sequelize (https://www.npmjs.com/package/connect-session-sequelize).  
 
 ## License
 

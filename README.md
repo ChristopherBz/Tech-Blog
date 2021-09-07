@@ -1,4 +1,6 @@
 # Tech-Blog
+![image](https://user-images.githubusercontent.com/81110745/132268983-54b494db-dc5d-4e41-8068-eb751ff14f1a.png)  
+Find the deployed application here: https://shielded-sierra-40191.herokuapp.com/![image](https://user-images.githubusercontent.com/81110745/132269024-c5921146-856e-417d-9f71-d024969b4d97.png)  
 
 ## Description
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")  
@@ -8,7 +10,7 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 
 ## Table of Contents
 - [Demo](#Demo)
-- [Tutorial](#Tutorial)
+- [Deployed](#Deployed)
 - [User Story](#User-Story)
 - [Installation](#installation)
 - [Technology](#technology)
@@ -18,8 +20,9 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 ### Demo
 ![Screenshot]()
 
-### Tutorial
-View the how to video here: 
+### Deployed
+Find the deployed application here: https://shielded-sierra-40191.herokuapp.com/![image](https://user-images.githubusercontent.com/81110745/132269024-c5921146-856e-417d-9f71-d024969b4d97.png)
+
 
 ### User-Story
 AS A developer who writes about tech
